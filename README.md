@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/LEEVANTH/leetcode-/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/LEEVANTH/leetcode-/tree/master/0190-reverse-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/LEEVANTH/leetcode-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Segment Tree
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/LEEVANTH/leetcode-/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/LEEVANTH/leetcode-/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
