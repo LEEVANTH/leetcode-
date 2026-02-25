@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/LEEVANTH/leetcode-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/LEEVANTH/leetcode-/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/LEEVANTH/leetcode-/tree/master/0053-maximum-subarray) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3719-longest-balanced-subarray-i](https://github.com/LEEVANTH/leetcode-/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3721-longest-balanced-subarray-ii) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/LEEVANTH/leetcode-/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/LEEVANTH/leetcode-/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/LEEVANTH/leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/LEEVANTH/leetcode-/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/LEEVANTH/leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/LEEVANTH/leetcode-/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/LEEVANTH/leetcode-/tree/master/0047-permutations-ii) |
 | [0761-special-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/0761-special-binary-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Two Pointers
 |  |
 | ------- |
