@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/LEEVANTH/leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LEEVANTH/leetcode-/tree/master/0067-add-binary) |
 | [0696-count-binary-substrings](https://github.com/LEEVANTH/leetcode-/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/0761-special-binary-string) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/LEEVANTH/leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LEEVANTH/leetcode-/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/LEEVANTH/leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Bit Manipulation
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/LEEVANTH/leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LEEVANTH/leetcode-/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/LEEVANTH/leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Backtracking
