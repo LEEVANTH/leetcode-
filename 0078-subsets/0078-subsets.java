@@ -9,7 +9,7 @@ class Solution {
             List<Integer> subset = new ArrayList<>();
 
             for (int j = 0; j < n; j++) {
-                if ((i & (1 << j)) != 0) {
+                if ((i & (1 << j)) >= 1) {
                     subset.add(nums[j]);
                 }
             }
