@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/LEEVANTH/leetcode-/tree/master/0110-balanced-binary-tree) |
+| [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/LEEVANTH/leetcode-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LEEVANTH/leetcode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LEEVANTH/leetcode-/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/LEEVANTH/leetcode-/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/LEEVANTH/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LEEVANTH/leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -186,11 +188,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/LEEVANTH/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/LEEVANTH/leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/LEEVANTH/leetcode-/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
