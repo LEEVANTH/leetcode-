@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LEEVANTH/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/LEEVANTH/leetcode-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LEEVANTH/leetcode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/LEEVANTH/leetcode-/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/LEEVANTH/leetcode-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/LEEVANTH/leetcode-/tree/master/0198-house-robber) |
 | [0799-champagne-tower](https://github.com/LEEVANTH/leetcode-/tree/master/0799-champagne-tower) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/LEEVANTH/leetcode-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Math
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/LEEVANTH/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
 ## Stack
 |  |
 | ------- |
