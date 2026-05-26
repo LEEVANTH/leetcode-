@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/LEEVANTH/leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/LEEVANTH/leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LEEVANTH/leetcode-/tree/master/0067-add-binary) |
+| [0520-detect-capital](https://github.com/LEEVANTH/leetcode-/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/LEEVANTH/leetcode-/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/LEEVANTH/leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
