@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LEEVANTH/leetcode-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/LEEVANTH/leetcode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/LEEVANTH/leetcode-/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LEEVANTH/leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2906-construct-product-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/2906-construct-product-matrix) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/LEEVANTH/leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LEEVANTH/leetcode-/tree/master/0067-add-binary) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/LEEVANTH/leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/LEEVANTH/leetcode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LEEVANTH/leetcode-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Backtracking
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/LEEVANTH/leetcode-/tree/master/0015-3sum) |
 | [0696-count-binary-substrings](https://github.com/LEEVANTH/leetcode-/tree/master/0696-count-binary-substrings) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/LEEVANTH/leetcode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/LEEVANTH/leetcode-/tree/master/2540-minimum-common-value) |
 ## Rolling Hash
 |  |
