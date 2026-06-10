@@ -1,99 +1,46 @@
-class Node{
-    int i, j;
-    long val;
-
-    public Node(int i, int j, long val){
-        this.i = i;
-        this.j = j;
-        this.val = val;
-    }
-}
-
 class Solution {
     public long maxTotalValue(int[] nums, int k) {
         int n = nums.length;
-        SegmentTree st = new SegmentTree(nums);
+        SparseTable table = new SparseTable(nums);
+        PriorityQueue<int[]> pq = new PriorityQueue<>(n, (a, b) -> b[0] - a[0]);
+        long sum = 0;
 
-        PriorityQueue<Node> pq = new PriorityQueue<>((a, b) -> Long.compare(b.val, a.val));
-        for (int i = 0; i < n; i++) {
-            int j = n - 1;
-            int[] res = st.query(i, j);
-            long val = res[1] - res[0];
-            pq.add(new Node(i, j, val));
-        }
+        for(int i = 0; i < n; i++) pq.offer(new int[] {table.query(i, n - 1), i, n - 1});
 
-        long ans = 0;
-
-        while(k-- > 0){
-            Node peak = pq.poll();
-            ans += peak.val;
-            int i = peak.i;
-            int j = peak.j - 1;
-            if(i <= j){
-                int[] res = st.query(i, j);
-                long val = res[1] - res[0];
-                pq.add(new Node(i, j, val));
+        for(int i = 0; i < k; i++) {
+            int[] current = pq.poll();
+            int a = current[1], b = current[2];
+            sum += current[0];
+            if(a < b) {
+                current[2] = b - 1;
+                current[0] = table.query(a, b - 1);
+                pq.offer(current);
             }
         }
-
-        return ans;
+        return sum;
     }
-
 }
-
-
-class SegmentTree{
-    Node root;
-
-    public SegmentTree(int[] nums){
-        root = buildTree(nums, 0, nums.length - 1);
+class SparseTable {
+    private final int[] pow;
+    private final int[][] table1, table2;
+    public SparseTable(int[] arr) {
+        int n = arr.length;
+        this.pow = new int[n + 1];
+        for(int i = 2; i <= n; i++) pow[i] = pow[i >> 1] + 1;
+        int max = pow[n];
+        this.table1 = new int[max + 1][n];
+        this.table2 = new int[max + 1][n];
+        this.table1[0] = this.table2[0] = arr;
+        for(int p = 1; p <= max; p++) {
+            int len = n - (1 << p), val = 1 << (p - 1);
+            for(int i = 0; i <= len; i++) {
+                table1[p][i] = Math.max(table1[p - 1][i + val], table1[p - 1][i]);
+                table2[p][i] = Math.min(table2[p - 1][i + val], table2[p - 1][i]);
+            }
+        }
     }
-
-    public int[] query(int start, int end){
-        return query(root, start, end);
-    }   
-
-    private int[] query(Node node, int start, int end){
-        if(node == null){
-            return new int[]{Integer.MIN_VALUE, Integer.MAX_VALUE};
-        }
-
-        if(start <= node.start && node.end <= end){
-            return new int[]{node.min, node.max};
-        }
-        if(node.end < start || end < node.start){
-            return new int[]{Integer.MAX_VALUE, Integer.MIN_VALUE};
-        }
-        int[] left = query(node.left, start, end);
-        int[] right = query(node.right, start, end);
-        int min = Math.min(left[0], right[0]);
-        int max = Math.max(left[1], right[1]);
-        return new int[]{min, max};
-    }
-
-    private Node buildTree(int[] nums, int start, int end){
-        Node node = new Node(start, end);
-        if(start == end){
-            node.min = nums[start];
-            node.max = nums[start];
-            return node;
-        }
-        int mid = (start + end) / 2;
-        node.left = buildTree(nums, start, mid);
-        node.right = buildTree(nums, mid + 1, end);
-        node.min = Math.min(node.left.min, node.right.min);
-        node.max = Math.max(node.left.max, node.right.max);
-        return node;
-    }
-    
-    private class Node{
-        int start, end;
-        int min = Integer.MAX_VALUE, max = Integer.MIN_VALUE;
-        Node left, right;
-
-        public Node(int start, int end){
-            this.start = start;
-            this.end = end;
-        }
+    public int query(int left, int right) {
+        int p = pow[right - left + 1];
+        return Math.max(table1[p][right - (1 << p) + 1], table1[p][left]) - Math.min(table2[p][right - (1 << p) + 1], table2[p][left]);
     }
 }
