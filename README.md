@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/LEEVANTH/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/LEEVANTH/leetcode-/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
+| [3612-process-string-with-special-operations-i](https://github.com/LEEVANTH/leetcode-/tree/master/3612-process-string-with-special-operations-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3713-longest-balanced-substring-i](https://github.com/LEEVANTH/leetcode-/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3714-longest-balanced-substring-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/LEEVANTH/leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LEEVANTH/leetcode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LEEVANTH/leetcode-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3612-process-string-with-special-operations-i](https://github.com/LEEVANTH/leetcode-/tree/master/3612-process-string-with-special-operations-i) |
 ## Backtracking
 |  |
 | ------- |
