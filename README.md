@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/LEEVANTH/leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1840-maximum-building-height](https://github.com/LEEVANTH/leetcode-/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LEEVANTH/leetcode-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/0761-special-binary-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1840-maximum-building-height](https://github.com/LEEVANTH/leetcode-/tree/master/1840-maximum-building-height) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/LEEVANTH/leetcode-/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LEEVANTH/leetcode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/LEEVANTH/leetcode-/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/LEEVANTH/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
