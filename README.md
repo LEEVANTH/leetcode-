@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LEEVANTH/leetcode-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/LEEVANTH/leetcode-/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [1345-jump-game-iv](https://github.com/LEEVANTH/leetcode-/tree/master/1345-jump-game-iv) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Union-Find
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LEEVANTH/leetcode-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Greedy
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/LEEVANTH/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
@@ -321,4 +326,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
