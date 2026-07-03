@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/LEEVANTH/leetcode-/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
 | [3689-maximum-total-subarray-value-i](https://github.com/LEEVANTH/leetcode-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/LEEVANTH/leetcode-/tree/master/3719-longest-balanced-subarray-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/LEEVANTH/leetcode-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
 | ------- |
@@ -295,11 +297,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/LEEVANTH/leetcode-/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/LEEVANTH/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/LEEVANTH/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Sliding Window
 |  |
@@ -330,4 +335,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
