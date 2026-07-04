@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/LEEVANTH/leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3488-closest-equal-element-queries](https://github.com/LEEVANTH/leetcode-/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/LEEVANTH/leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/LEEVANTH/leetcode-/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LEEVANTH/leetcode-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/LEEVANTH/leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Bit Manipulation
 |  |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/LEEVANTH/leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LEEVANTH/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/LEEVANTH/leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Stack
 |  |
 | ------- |
@@ -346,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/LEEVANTH/leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
