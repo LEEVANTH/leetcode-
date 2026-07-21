@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LEEVANTH/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/LEEVANTH/leetcode-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/LEEVANTH/leetcode-/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/LEEVANTH/leetcode-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3614-process-string-with-special-operations-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/LEEVANTH/leetcode-/tree/master/1291-sequential-digits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/LEEVANTH/leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/LEEVANTH/leetcode-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/LEEVANTH/leetcode-/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
