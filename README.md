@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/LEEVANTH/leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1345-jump-game-iv](https://github.com/LEEVANTH/leetcode-/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LEEVANTH/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/LEEVANTH/leetcode-/tree/master/1732-find-the-highest-altitude) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/LEEVANTH/leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LEEVANTH/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1840-maximum-building-height](https://github.com/LEEVANTH/leetcode-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LEEVANTH/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
