@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/LEEVANTH/leetcode-/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LEEVANTH/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/LEEVANTH/leetcode-/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3612-process-string-with-special-operations-i](https://github.com/LEEVANTH/leetcode-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3614-process-string-with-special-operations-ii) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/LEEVANTH/leetcode-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LEEVANTH/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/LEEVANTH/leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/LEEVANTH/leetcode-/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -411,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/LEEVANTH/leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/LEEVANTH/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
