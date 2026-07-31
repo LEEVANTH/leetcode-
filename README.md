@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/LEEVANTH/leetcode-/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/LEEVANTH/leetcode-/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LEEVANTH/leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LEEVANTH/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/LEEVANTH/leetcode-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LEEVANTH/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/LEEVANTH/leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/LEEVANTH/leetcode-/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/LEEVANTH/leetcode-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LEEVANTH/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/LEEVANTH/leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -330,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LEEVANTH/leetcode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/LEEVANTH/leetcode-/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
