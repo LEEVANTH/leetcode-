@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/LEEVANTH/leetcode-/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/LEEVANTH/leetcode-/tree/master/0209-minimum-size-subarray-sum) |
+| [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/LEEVANTH/leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LEEVANTH/leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/LEEVANTH/leetcode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/LEEVANTH/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/LEEVANTH/leetcode-/tree/master/0198-house-robber) |
+| [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0799-champagne-tower](https://github.com/LEEVANTH/leetcode-/tree/master/0799-champagne-tower) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/LEEVANTH/leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LEEVANTH/leetcode-/tree/master/0067-add-binary) |
+| [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/LEEVANTH/leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LEEVANTH/leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/LEEVANTH/leetcode-/tree/master/1840-maximum-building-height) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/LEEVANTH/leetcode-/tree/master/0021-merge-two-sorted-lists) |
+| [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -427,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LEEVANTH/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
