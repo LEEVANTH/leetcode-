@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LEEVANTH/leetcode-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/LEEVANTH/leetcode-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LEEVANTH/leetcode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/LEEVANTH/leetcode-/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/LEEVANTH/leetcode-/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LEEVANTH/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/LEEVANTH/leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/LEEVANTH/leetcode-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/LEEVANTH/leetcode-/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/LEEVANTH/leetcode-/tree/master/2540-minimum-common-value) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/LEEVANTH/leetcode-/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/LEEVANTH/leetcode-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [2906-construct-product-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/LEEVANTH/leetcode-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
