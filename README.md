@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/LEEVANTH/leetcode-/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0799-champagne-tower](https://github.com/LEEVANTH/leetcode-/tree/master/0799-champagne-tower) |
+| [1510-stone-game-iv](https://github.com/LEEVANTH/leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/LEEVANTH/leetcode-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/LEEVANTH/leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LEEVANTH/leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1510-stone-game-iv](https://github.com/LEEVANTH/leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/LEEVANTH/leetcode-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1840-maximum-building-height](https://github.com/LEEVANTH/leetcode-/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -450,4 +452,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [1510-stone-game-iv](https://github.com/LEEVANTH/leetcode-/tree/main/1510-stone-game-iv/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/LEEVANTH/leetcode-/tree/main/1510-stone-game-iv/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/LEEVANTH/leetcode-/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/LEEVANTH/leetcode-/tree/main/1510-stone-game-iv/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/LEEVANTH/leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
