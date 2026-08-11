@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LEEVANTH/leetcode-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LEEVANTH/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/LEEVANTH/leetcode-/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/LEEVANTH/leetcode-/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LEEVANTH/leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LEEVANTH/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/LEEVANTH/leetcode-/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/LEEVANTH/leetcode-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LEEVANTH/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LEEVANTH/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
