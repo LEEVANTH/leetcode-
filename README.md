@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LEEVANTH/leetcode-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LEEVANTH/leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LEEVANTH/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-find-subarrays-with-equal-sum](https://github.com/LEEVANTH/leetcode-/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/LEEVANTH/leetcode-/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LEEVANTH/leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LEEVANTH/leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LEEVANTH/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/LEEVANTH/leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LEEVANTH/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LEEVANTH/leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3411-maximum-subarray-with-equal-products](https://github.com/LEEVANTH/leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Stack
 | Problem Name | Difficulty |
