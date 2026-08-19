@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/LEEVANTH/leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1345-jump-game-iv](https://github.com/LEEVANTH/leetcode-/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/LEEVANTH/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LEEVANTH/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/LEEVANTH/leetcode-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/LEEVANTH/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
 | [1345-jump-game-iv](https://github.com/LEEVANTH/leetcode-/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LEEVANTH/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/LEEVANTH/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/LEEVANTH/leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/LEEVANTH/leetcode-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/LEEVANTH/leetcode-/tree/master/0868-binary-gap) |
 | [1009-complement-of-base-10-integer](https://github.com/LEEVANTH/leetcode-/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/LEEVANTH/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/LEEVANTH/leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/LEEVANTH/leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LEEVANTH/leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1386-cinema-seat-allocation](https://github.com/LEEVANTH/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LEEVANTH/leetcode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
