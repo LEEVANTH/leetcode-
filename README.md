@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3721-longest-balanced-subarray-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/LEEVANTH/leetcode-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LEEVANTH/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/LEEVANTH/leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/LEEVANTH/leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LEEVANTH/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/LEEVANTH/leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
