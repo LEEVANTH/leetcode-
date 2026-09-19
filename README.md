@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/LEEVANTH/leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LEEVANTH/leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/LEEVANTH/leetcode-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/LEEVANTH/leetcode-/tree/main/1510-stone-game-iv/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/LEEVANTH/leetcode-/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1840-maximum-building-height](https://github.com/LEEVANTH/leetcode-/tree/master/1840-maximum-building-height) |
@@ -545,4 +546,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/LEEVANTH/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/LEEVANTH/leetcode-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
