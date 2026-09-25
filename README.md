@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/LEEVANTH/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/LEEVANTH/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1345-jump-game-iv](https://github.com/LEEVANTH/leetcode-/tree/master/1345-jump-game-iv) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LEEVANTH/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/LEEVANTH/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/LEEVANTH/leetcode-/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/0761-special-binary-string) |
 | [0940-distinct-subsequences-ii](https://github.com/LEEVANTH/leetcode-/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/LEEVANTH/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/LEEVANTH/leetcode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/LEEVANTH/leetcode-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/LEEVANTH/leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/LEEVANTH/leetcode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LEEVANTH/leetcode-/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/LEEVANTH/leetcode-/tree/master/0401-binary-watch) |
+| [1096-brace-expansion-ii](https://github.com/LEEVANTH/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Sorting
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/LEEVANTH/leetcode-/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/LEEVANTH/leetcode-/tree/master/0047-permutations-ii) |
 | [0761-special-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/0761-special-binary-string) |
+| [1096-brace-expansion-ii](https://github.com/LEEVANTH/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/LEEVANTH/leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LEEVANTH/leetcode-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
+| [1096-brace-expansion-ii](https://github.com/LEEVANTH/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1345-jump-game-iv](https://github.com/LEEVANTH/leetcode-/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LEEVANTH/leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/LEEVANTH/leetcode-/tree/master/2685-count-the-number-of-complete-components) |
@@ -496,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LEEVANTH/leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/LEEVANTH/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/LEEVANTH/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
