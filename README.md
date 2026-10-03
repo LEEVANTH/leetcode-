@@ -581,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LEEVANTH/leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
