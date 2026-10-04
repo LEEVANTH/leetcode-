@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/LEEVANTH/leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LEEVANTH/leetcode-/tree/master/0067-add-binary) |
 | [0520-detect-capital](https://github.com/LEEVANTH/leetcode-/tree/master/0520-detect-capital) |
+| [0678-valid-parenthesis-string](https://github.com/LEEVANTH/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0696-count-binary-substrings](https://github.com/LEEVANTH/leetcode-/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/0761-special-binary-string) |
 | [0940-distinct-subsequences-ii](https://github.com/LEEVANTH/leetcode-/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/LEEVANTH/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/LEEVANTH/leetcode-/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/LEEVANTH/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0799-champagne-tower](https://github.com/LEEVANTH/leetcode-/tree/master/0799-champagne-tower) |
 | [0940-distinct-subsequences-ii](https://github.com/LEEVANTH/leetcode-/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/LEEVANTH/leetcode-/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/LEEVANTH/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/LEEVANTH/leetcode-/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/LEEVANTH/leetcode-/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LEEVANTH/leetcode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/LEEVANTH/leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/LEEVANTH/leetcode-/tree/main/0496-next-greater-element-i/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/LEEVANTH/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/LEEVANTH/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Trie
@@ -582,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/LEEVANTH/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LEEVANTH/leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 <!---LeetCode Topics End-->
