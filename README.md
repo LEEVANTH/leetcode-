@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/LEEVANTH/leetcode-/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/LEEVANTH/leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LEEVANTH/leetcode-/tree/master/0067-add-binary) |
+| [0301-remove-invalid-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0520-detect-capital](https://github.com/LEEVANTH/leetcode-/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/LEEVANTH/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0696-count-binary-substrings](https://github.com/LEEVANTH/leetcode-/tree/master/0696-count-binary-substrings) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/LEEVANTH/leetcode-/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/LEEVANTH/leetcode-/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/LEEVANTH/leetcode-/tree/master/0090-subsets-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0401-binary-watch](https://github.com/LEEVANTH/leetcode-/tree/master/0401-binary-watch) |
 | [1096-brace-expansion-ii](https://github.com/LEEVANTH/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [1096-brace-expansion-ii](https://github.com/LEEVANTH/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1345-jump-game-iv](https://github.com/LEEVANTH/leetcode-/tree/master/1345-jump-game-iv) |
