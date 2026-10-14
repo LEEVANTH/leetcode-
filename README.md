@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/LEEVANTH/leetcode-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/LEEVANTH/leetcode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/LEEVANTH/leetcode-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/LEEVANTH/leetcode-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LEEVANTH/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/LEEVANTH/leetcode-/tree/main/3870-count-commas-in-range/) | Easy |
@@ -460,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/LEEVANTH/leetcode-/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/LEEVANTH/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/LEEVANTH/leetcode-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LEEVANTH/leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
