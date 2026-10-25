@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/LEEVANTH/leetcode-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/LEEVANTH/leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/LEEVANTH/leetcode-/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LEEVANTH/leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/LEEVANTH/leetcode-/tree/master/2685-count-the-number-of-complete-components) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/LEEVANTH/leetcode-/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/LEEVANTH/leetcode-/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/LEEVANTH/leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/LEEVANTH/leetcode-/tree/master/1288-remove-covered-intervals) |
 | [1345-jump-game-iv](https://github.com/LEEVANTH/leetcode-/tree/master/1345-jump-game-iv) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/LEEVANTH/leetcode-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/LEEVANTH/leetcode-/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
 | [1096-brace-expansion-ii](https://github.com/LEEVANTH/leetcode-/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/LEEVANTH/leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1345-jump-game-iv](https://github.com/LEEVANTH/leetcode-/tree/master/1345-jump-game-iv) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LEEVANTH/leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/LEEVANTH/leetcode-/tree/master/2685-count-the-number-of-complete-components) |
@@ -415,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/LEEVANTH/leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/LEEVANTH/leetcode-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/LEEVANTH/leetcode-/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -433,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/LEEVANTH/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/LEEVANTH/leetcode-/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/LEEVANTH/leetcode-/tree/master/0695-max-area-of-island) |
+| [1254-number-of-closed-islands](https://github.com/LEEVANTH/leetcode-/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/LEEVANTH/leetcode-/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
