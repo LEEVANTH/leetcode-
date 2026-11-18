@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/LEEVANTH/leetcode-/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/LEEVANTH/leetcode-/tree/master/0198-house-robber) |
 | [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/LEEVANTH/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/LEEVANTH/leetcode-/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0799-champagne-tower](https://github.com/LEEVANTH/leetcode-/tree/master/0799-champagne-tower) |
 | [0940-distinct-subsequences-ii](https://github.com/LEEVANTH/leetcode-/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/LEEVANTH/leetcode-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/LEEVANTH/leetcode-/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/LEEVANTH/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/LEEVANTH/leetcode-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/LEEVANTH/leetcode-/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/LEEVANTH/leetcode-/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/LEEVANTH/leetcode-/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/LEEVANTH/leetcode-/tree/main/0486-predict-the-winner/) | Medium |
+| [0509-fibonacci-number](https://github.com/LEEVANTH/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -641,4 +644,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/LEEVANTH/leetcode-/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/LEEVANTH/leetcode-/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
