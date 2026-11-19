@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LEEVANTH/leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2395-find-subarrays-with-equal-sum](https://github.com/LEEVANTH/leetcode-/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/LEEVANTH/leetcode-/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/LEEVANTH/leetcode-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/LEEVANTH/leetcode-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LEEVANTH/leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/LEEVANTH/leetcode-/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/LEEVANTH/leetcode-/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/LEEVANTH/leetcode-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LEEVANTH/leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LEEVANTH/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/LEEVANTH/leetcode-/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/LEEVANTH/leetcode-/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/LEEVANTH/leetcode-/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/LEEVANTH/leetcode-/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/LEEVANTH/leetcode-/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
