@@ -1,26 +1,33 @@
 class Solution {
     public boolean detectCapitalUse(String word) {
-        char[] ch=word.toCharArray();
-        int c=0,n=word.length();
-        for(int i=0;i<word.length();i++)
+        boolean ans=false;
+        char ch[]=word.toCharArray();
+        int n=ch.length;
+        int c=0,v=0,m=0;
+        for(int i=0;i<n;i++)
         {
-            if(Character.isUpperCase(ch[i]))
-            {
-               c=c+1;
+            if(Character.isLowerCase(ch[i])){
+                c=c+1;
             }
-          
+
         }
-        if(c==n||c==0)
+         for(int i=0;i<n;i++)
         {
-            return true;
-        }
-         else if(Character.isUpperCase(ch[0])&&c==1)
-            {
-                return true;
+            if(Character.isUpperCase(ch[i])){
+                v=v+1;
             }
-        else
-        {
-            return false;
+            
         }
+         for(int i=1;i<n;i++)
+        {
+            if(Character.isUpperCase(ch[0])&&Character.isLowerCase(ch[i]))
+                 m=m+1;
+        }
+        
+
+         if(c==n||v==n||m==n-1)
+          ans=true;
+
+          return ans;
     }
 }
