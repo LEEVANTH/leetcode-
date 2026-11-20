@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LEEVANTH/leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/LEEVANTH/leetcode-/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LEEVANTH/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/LEEVANTH/leetcode-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/LEEVANTH/leetcode-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LEEVANTH/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/LEEVANTH/leetcode-/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/LEEVANTH/leetcode-/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LEEVANTH/leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/LEEVANTH/leetcode-/tree/main/2911-minimum-changes-to-make-k-semi-palindromes/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/LEEVANTH/leetcode-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/LEEVANTH/leetcode-/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/LEEVANTH/leetcode-/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/LEEVANTH/leetcode-/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/LEEVANTH/leetcode-/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/LEEVANTH/leetcode-/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LEEVANTH/leetcode-/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/LEEVANTH/leetcode-/tree/main/3536-maximum-product-of-two-digits/) | Easy |
