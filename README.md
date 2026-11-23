@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/LEEVANTH/leetcode-/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/LEEVANTH/leetcode-/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
+| [2129-capitalize-the-title](https://github.com/LEEVANTH/leetcode-/tree/main/2129-capitalize-the-title/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LEEVANTH/leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2490-circular-sentence](https://github.com/LEEVANTH/leetcode-/tree/main/2490-circular-sentence/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/LEEVANTH/leetcode-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
