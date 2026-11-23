@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/LEEVANTH/leetcode-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/LEEVANTH/leetcode-/tree/main/1893-check-if-all-the-integers-in-a-range-are-covered/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/LEEVANTH/leetcode-/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/LEEVANTH/leetcode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LEEVANTH/leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/LEEVANTH/leetcode-/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/LEEVANTH/leetcode-/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1871-jump-game-vii](https://github.com/LEEVANTH/leetcode-/tree/master/1871-jump-game-vii) |
 | [1980-find-unique-binary-string](https://github.com/LEEVANTH/leetcode-/tree/master/1980-find-unique-binary-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/LEEVANTH/leetcode-/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/LEEVANTH/leetcode-/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/LEEVANTH/leetcode-/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2490-circular-sentence](https://github.com/LEEVANTH/leetcode-/tree/main/2490-circular-sentence/) | Easy |
