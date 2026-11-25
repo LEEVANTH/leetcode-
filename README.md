@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3843-first-element-with-unique-frequency](https://github.com/LEEVANTH/leetcode-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LEEVANTH/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LEEVANTH/leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3934-smallest-unique-subarray](https://github.com/LEEVANTH/leetcode-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/LEEVANTH/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3721-longest-balanced-subarray-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3721-longest-balanced-subarray-ii) |
 | [3843-first-element-with-unique-frequency](https://github.com/LEEVANTH/leetcode-/tree/main/3843-first-element-with-unique-frequency/) | Medium |
+| [3934-smallest-unique-subarray](https://github.com/LEEVANTH/leetcode-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -423,10 +425,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/LEEVANTH/leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/LEEVANTH/leetcode-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/LEEVANTH/leetcode-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/LEEVANTH/leetcode-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/LEEVANTH/leetcode-/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
+| [3934-smallest-unique-subarray](https://github.com/LEEVANTH/leetcode-/tree/main/3934-smallest-unique-subarray/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -675,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/LEEVANTH/leetcode-/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Suffix Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3934-smallest-unique-subarray](https://github.com/LEEVANTH/leetcode-/tree/main/3934-smallest-unique-subarray/) | Hard |
 <!---LeetCode Topics End-->
