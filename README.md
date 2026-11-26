@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/LEEVANTH/leetcode-/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3312-sorted-gcd-pair-queries](https://github.com/LEEVANTH/leetcode-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/LEEVANTH/leetcode-/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/LEEVANTH/leetcode-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/LEEVANTH/leetcode-/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/LEEVANTH/leetcode-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/LEEVANTH/leetcode-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/LEEVANTH/leetcode-/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/LEEVANTH/leetcode-/tree/main/3360-stone-removal-game/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/LEEVANTH/leetcode-/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3614-process-string-with-special-operations-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LEEVANTH/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
