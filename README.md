@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LEEVANTH/leetcode-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/LEEVANTH/leetcode-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3934-smallest-unique-subarray](https://github.com/LEEVANTH/leetcode-/tree/main/3934-smallest-unique-subarray/) | Hard |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/LEEVANTH/leetcode-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3524-find-x-value-of-array-i](https://github.com/LEEVANTH/leetcode-/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/LEEVANTH/leetcode-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/LEEVANTH/leetcode-/tree/master/3620-network-recovery-pathways) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/LEEVANTH/leetcode-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/LEEVANTH/leetcode-/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/LEEVANTH/leetcode-/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/LEEVANTH/leetcode-/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/LEEVANTH/leetcode-/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
